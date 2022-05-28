@@ -1,0 +1,2 @@
+# bigquery_nlp
+BigQueryに入っている情報を形態素解析する
